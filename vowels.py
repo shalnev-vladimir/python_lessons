@@ -7,3 +7,4 @@ for letter in word:
             found.append(letter)
 for vowel in found:
     print(vowel)
+
